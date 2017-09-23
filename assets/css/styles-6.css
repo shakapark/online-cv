@@ -221,7 +221,7 @@ p {
   margin-bottom: 10px;
   color: #97AAC3;
 }
-.main-wrapper .company .link {
+.main-wrapper .company a {
   margin-bottom: 10px;
   color: #97AAC3;
   text-decoration: underline
