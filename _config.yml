@@ -20,7 +20,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: florent.padiou@gmail.com
 phone: 06 79 41 24 36
-#website:  #do not add http://
+website: shakapark.github.io/online-cv/ #do not add http://
 linkedin: florent-padiou-503261119
 github: shakapark
 #twitter: ''
